@@ -9,15 +9,15 @@ Github Stable tag: master
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Automatically publish unique, relevant content every week from Copify's team of professional writers.
+Struggle to find the time or inspiration to update your blog? Copify can help.
 
 == Description ==
 
-If you don’t blog regularly, you’re not alone. Most companies struggle to find the time and inspiration to update their blog, which means they are missing out on a real opportunity.
+If you don’t blog regularly, you’re not alone. Most companies struggle to find the time and inspiration to update their blog, which means they are missing out on a huge opportunity.
 
-Statistics from content marketing platform HubSpot reveal that blogs which are updated regularly get 55% more visitors and 97% more links than those which aren’t.
+[Statistics from content marketing specialists HubSpot](http://blog.hubspot.com/blog/tabid/6307/bid/5014/Study-Shows-Business-Blogging-Leads-to-55-More-Website-Visitors.aspx) reveal that businesses who blog regularly get 55% more visitors & 97% more links than those who don't.
 
-This is where Copify can help. By installing our plugin and signing up for one of our [monthly packages](http://copify.com/blog-packages), we’ll deliver a number of blog posts every week. These posts can be pushed directly to your WordPress dashboard for quick and easy publishing.
+This is where Copify can help. Install our plugin and sign up for one of our [blog packages](http://copify.com/blog-packages) and we’ll deliver regular, quality posts written by professional writers to your exact specification and complete with quality images.
 
 == Requirements ==
 
